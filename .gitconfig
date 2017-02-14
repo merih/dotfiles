@@ -1,0 +1,8 @@
+[user]
+    name = Merih Akar
+    email = merihakar@gmail.com
+[core]
+    excludesfile = .gitignore
+    autocrlf = input
+[push]
+    default = matching
